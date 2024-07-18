@@ -1,9 +1,74 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "products": [
+      {
+          "id": 1,
+          "name": "Skechers",
+          "description": "Comfortable and stylish running shoes for all your athletic needs.",
+          "price": 79.99,
+          "image": "skechers.jpg"
+      },
+      {
+          "id": 2,
+          "name": "Jordan 1",
+          "description": "High-performance basketball shoes for optimal support and comfort.",
+          "price": 89.99,
+          "image": "JORDAN 1.png"
+      },
+      {
+          "id": 3,
+          "name": "Vans",
+          "description": "Versatile and fashionable sneakers perfect for casual wear.",
+          "price": 69.99,
+          "image": "Vans.webp"
+      },
+      {
+          "id": 4,
+          "name": "Nike Air Zoom",
+          "description": "Durable and stylish running shoes for all your athletic needs.",
+          "price": 129.99,
+          "image": "nike zoom.png"
+      },
+      {
+          "id": 5,
+          "name": "Reebok",
+          "description": "Comfortable and stylish running shoes for all your athletic needs.",
+          "price": 84.99,
+          "image": "Reebok.webp"
+      },
+      {
+          "id": 6,
+          "name": "Adidas Samba",
+          "description": "High-performance running shoes with responsive cushioning.",
+          "price": 149.99,
+          "image": "Samba.avif"
+      },
+      {
+          "id": 7,
+          "name": "Puma RS-X",
+          "description": "Retro-inspired sneakers with bold style and comfort.",
+          "price": 99.99,
+          "image": "Puma.avif"
+      },
+      {
+          "id": 8,
+          "name": "New Balance 574",
+          "description": "Classic running shoes with premium materials and construction.",
+          "price": 174.99,
+          "image": "new balance 574.webp"
+      },
+      {
+          "id": 9,
+          "name": "Lacoste",
+          "description": "Stylish and comfortable shoe",
+          "price": 159.99,
+          "image": "lacoste.avif"
+      },
+      {
+          "id": 10,
+          "name": "Corteiz",
+          "description": "Iconic high-top sneakers with a timeless design.",
+          "price": 59.99,
+          "image": "corteiz.jpeg"
+      }
+  ]
 }
